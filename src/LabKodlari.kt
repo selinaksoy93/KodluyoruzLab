@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
 
     val sonuc = vize.calculate(final)
     println("Ortalama: $sonuc")
-
+    //test
 
 }
 
